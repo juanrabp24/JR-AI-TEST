@@ -1,4 +1,4 @@
-# Siroko Cart — Prueba Técnica
+# Prueba Técnica
 
 API REST de carrito de compra construida con **PHP 8.3 + Symfony 7.4** siguiendo
 **Arquitectura Hexagonal** y **Domain-Driven Design**.
